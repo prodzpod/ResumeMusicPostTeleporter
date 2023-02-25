@@ -1,6 +1,6 @@
 {
 	"name": "ResumeMusicPostTeleporter",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"website_url": "https://github.com/prodzpod/ResumeMusicPostTeleporter",
 	"description": "Small mod that resumes stage music after the teleporter event. Configurable.",
 	"dependencies": [
